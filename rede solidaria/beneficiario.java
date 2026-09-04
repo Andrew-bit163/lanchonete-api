@@ -1,0 +1,6 @@
+/**
+ * beneficiario
+ */
+public enum beneficiario {
+
+}
